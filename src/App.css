@@ -1,0 +1,7 @@
+body{
+  background: rgb(113,240,252);
+  background: linear-gradient(90deg, rgba(113,240,252,1) 3%, rgba(208,191,210,1) 26%, rgba(113,240,252,1) 45%, rgba(113,240,252,1) 50%, rgba(113,240,252,1) 61%, rgba(113,240,252,1) 96%);
+color: rgb(244, 249, 249);
+ 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
